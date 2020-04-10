@@ -1,0 +1,1 @@
+{"errors":[{"message":"Invalid regular expression: /(pages/: Unterminated group","locations":[{"line":2,"column":3}],"path":["allMarkdownRemark"]}],"data":null}
